@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Shopping_Android_application</string>
+    <string name="create_account">Create Account</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="bookstore">BookStore</string>
+    <string name="no_fav_books">No Favorite Books</string>
+    <string name="my_cart">My Cart</string>
+    <string name="items">Items</string>
+    <string name="total_price">Total Price</string>
+    <string name="total_cost">Total cost</string>
+    <string name="item">item</string>
+    <string name="favourites">Favourites</string>
+    <string name="choose">Choose Language</string>
+
+</resources>
